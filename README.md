@@ -1,1 +1,2 @@
-# squaremos
+![Squaremos](logo.png)
+# Squaremos
