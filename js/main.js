@@ -1,0 +1,1 @@
+var squareCount = 1
