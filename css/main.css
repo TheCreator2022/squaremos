@@ -9,4 +9,9 @@
 
 body {
   margin:1.1rem;
+  font-family:monopsace;
+}
+
+body.contant {
+  font-family:Lucida Console;
 }
